@@ -1,0 +1,4 @@
+1 07 * * * /home/iibot/daily/daily.sh
+*/10 * * * * /home/iibot/www/www.bergdichter.de/htdocs/Adventskalender/Adventskalender2017/online/croncopy.sh
+*/10 * * * * /home/iibot/www/www.bergdichter.de/htdocs/Adventskalender/Adventskalender2018/nachher/croncopy.sh
+

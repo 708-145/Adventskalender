@@ -9,4 +9,4 @@ for i in `seq $days`; do
   cp `printf %02d $i`.html ..;
 done
 
-cat cron.log
+#cat cron.log
